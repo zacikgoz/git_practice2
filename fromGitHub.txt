@@ -1,0 +1,4 @@
+This is an awesome file I added directly from GitHub.com
+And now I am abot to commit directly to GitHub.com remote repository
+This is not something we would do normally
+We are just trying simulate where remote repository history is added 
